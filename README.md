@@ -1,5 +1,5 @@
 # Send Email Verification With OTP (One Time Password)
-Send Email Verification With OTP (One Time Password) Dengan Laravel 8
+Send Email Verification With OTP (One Time Password) Menggunakan Laravel 8
     
 ## Installation 
 
